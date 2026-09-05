@@ -1,6 +1,4 @@
-# Downloadable encyclopedia resources for Theodia.
-
-## Encyclopedias
+# Theodia Encyclopedias
 
 | Abbr | Title | Download |
 |------|-------|----------|
