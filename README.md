@@ -2,12 +2,12 @@
 
 | Abbr | Title | Download |
 |------|-------|----------|
+| DAC  | Dictionary of the Apostolic Church | `DAC.encyclopedia.zip` |
+| DCG  | Dictionary of Christ and the Gospels | `DCG.encyclopedia.zip` |
+| HAS  | Hastings' Dictionary of the Bible | `HAS.encyclopedia.zip` |
+| ISB  | International Standard Bible Encyclopedia | `ISB.encyclopedia.zip` |
 | KIT  | Kitto's Illustrated Commentary | Built into the app |
 | MSC  | McClintock and Strong Cyclopedia of Biblical, Theological and Ecclesiastical Literature | `MSC.encyclopedia.zip` |
-| HAS  | Hastings' Dictionary of the Bible | `HAS.encyclopedia.zip` |
-| DAC  | Dictionary of the Apostolic Church | `DAC.encyclopedia.zip` |
-| ISB  | International Standard Bible Encyclopedia | `ISB.encyclopedia.zip` |
-| DCG  | Dictionary of Christ and the Gospels | `DCG.encyclopedia.zip` |
 
 ## Install in Theodia
 
