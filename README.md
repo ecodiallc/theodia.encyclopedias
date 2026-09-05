@@ -1,13 +1,13 @@
 # Theodia Encyclopedias
 
-| Abbr | Title | Download |
-|------|-------|----------|
-| DAC  | Dictionary of the Apostolic Church | `DAC.encyclopedia.zip` |
-| DCG  | Dictionary of Christ and the Gospels | `DCG.encyclopedia.zip` |
-| HAS  | Hastings' Dictionary of the Bible | `HAS.encyclopedia.zip` |
-| ISB  | International Standard Bible Encyclopedia | `ISB.encyclopedia.zip` |
+| Abbr | Title |
+|------|-------|
+| DAC  | Dictionary of the Apostolic Church |
+| DCG  | Dictionary of Christ and the Gospels |
+| HAS  | Hastings' Dictionary of the Bible |
+| ISB  | International Standard Bible Encyclopedia | 
 | KIT  | Kitto's Illustrated Commentary | Built into the app |
-| MSC  | McClintock and Strong Cyclopedia of Biblical, Theological and Ecclesiastical Literature | `MSC.encyclopedia.zip` |
+| MSC  | McClintock and Strong Cyclopedia of Biblical, Theological and Ecclesiastical Literature |
 
 ## Install in Theodia
 
