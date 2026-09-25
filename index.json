@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "updatedAt": "2026-09-25T00:00:00.000Z",
+  "packages": [
+    {
+      "id": "dac",
+      "type": "encyclopedia",
+      "path": "DAC.encyclopedia.zip",
+      "name": "Dictionary of the Apostolic Church",
+      "description": "Dictionary of the Apostolic Church",
+      "author": "James Hastings",
+      "traditions": ["General"],
+      "tags": ["encyclopedia", "apostolic", "dictionary", "biblical"],
+      "version": "1.0.0"
+    },
+    {
+      "id": "dcg",
+      "type": "encyclopedia",
+      "path": "DCG.encyclopedia.zip",
+      "name": "Dictionary of Christ and the Gospels",
+      "description": "Dictionary of Christ and the Gospels",
+      "author": "James Hastings",
+      "traditions": ["General"],
+      "tags": ["encyclopedia", "christ", "gospels", "dictionary", "biblical"],
+      "version": "1.0.0"
+    },
+    {
+      "id": "has",
+      "type": "encyclopedia",
+      "path": "HAS.encyclopedia.zip",
+      "name": "Hastings' Dictionary of the Bible",
+      "description": "Hastings' Dictionary of the Bible",
+      "author": "James Hastings",
+      "traditions": ["General"],
+      "tags": ["encyclopedia", "dictionary", "bible", "biblical"],
+      "version": "1.0.0"
+    },
+    {
+      "id": "isb",
+      "type": "encyclopedia",
+      "path": "ISB.encyclopedia.zip",
+      "name": "International Standard Bible Encyclopedia",
+      "description": "International Standard Bible Encyclopedia",
+      "author": "Various",
+      "traditions": ["General"],
+      "tags": ["encyclopedia", "standard", "bible", "biblical"],
+      "version": "1.0.0"
+    },
+    {
+      "id": "msc",
+      "type": "encyclopedia",
+      "path": "MSC.encyclopedia.zip",
+      "name": "McClintock and Strong Cyclopedia",
+      "description": "McClintock and Strong Cyclopedia of Biblical, Theological and Ecclesiastical Literature",
+      "author": "John McClintock and James Strong",
+      "traditions": ["General"],
+      "tags": ["encyclopedia", "cyclopedia", "biblical", "theological", "ecclesiastical"],
+      "version": "1.0.0"
+    }
+  ]
+}
