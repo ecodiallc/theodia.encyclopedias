@@ -15,3 +15,9 @@
 2. Tap **Install from GitHub**.
 3. Select the **Encyclopedias** tab.
 4. Tap the download button next to the encyclopedia you want.
+
+### Download Theodia.app
+
+- [App Store](https://apps.apple.com/us/app/theodia/id6783143344)
+- [Google Play](https://play.google.com/store/apps/details?id=com.ecodia.theodia)
+
